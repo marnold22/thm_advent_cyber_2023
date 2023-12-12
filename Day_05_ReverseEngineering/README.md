@@ -30,7 +30,9 @@ Description: The backup tapes have finally been recovered after the team success
    1. > ls
       1. DEV, GAMES, NOTES, TC, TOOLS, ac2023.bak, plan.txt
       2. Lets take a look at the plan.txt file
-   2. > type plan.txt
+   2. > dir
+      1. ac2023.bak - 12,407 bytes
+   3. > type plan.txt
 
       ```text
          Usage:
@@ -60,24 +62,33 @@ Description: The backup tapes have finally been recovered after the team success
 
       1. So in the troubleshooting section it looks like we need to make sure the file signiture is correct
       2. Lets check the bytes of the "Magic Bytes" string of the ac2023.bak
-   3. > EDIT ac2023.bak
+   4. > EDIT ac2023.bak
       1. The first 2 bytes are "XX" and for a microsoft / DOS file we need "MZ"
       2. We need to convert our "41 43" from hex into text
       3. CYBERCHEF
          1. FROM HEX: "41 43" = "AC"
          2. We need to change the first two characters from XX to AC
-   4. > EDIT ac2023.bak
+   5. > EDIT ac2023.bak
       1. Change first 2 characters to "AC"
       2. > ALT F -> S (To save)
-   5. 
+   6. BUMASTER.EXE
+      1. Now we can run the BUMASTER.EXE executable on C:\AC2023.BAK
+      2. > BUMASTER.EXE C:\AC2023.BAK
+         1. RESPONSE:
+
+            ```text
+               Backup successully restored.
+               Congratulations
+               THM{0LD_5CH00l_C00L_d00D}
+            ```
 
 ## QUESTIONS
 
 1. How large (in bytes) is the AC2023.BAK file?
-   1. ``
+   1. `12,704`
 2. What is the name of the backup program?
-   1. ``
+   1. `BackupMaster3000`
 3. What should the correct bytes be in the backup's file signature to restore the backup properly?
-   1. ``
+   1. `41 43`
 4. What is the flag after restoring the backup successfully?
-   1. ``
+   1. `THM{0LD_5CH00l_C00L_d00D}`
