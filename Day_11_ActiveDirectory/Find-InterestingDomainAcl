@@ -1,0 +1,246 @@
+ObjectDN                : CN=SOUTHPOLE,OU=Domain Controllers,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : GenericAll
+ObjectAceType           : None
+AceFlags                : None
+AceType                 : AccessAllowed
+InheritanceFlags        : None
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1111
+IdentityReferenceName   : tracymcgreedy
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=tracymcgreedy,CN=Users,DC=AOC,DC=local
+IdentityReferenceClass  : user
+
+ObjectDN                : DC=@,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : CreateChild, DeleteChild, ListChildren, ReadProperty, DeleteTree, ExtendedRight, Delete, GenericWrite, WriteDacl, WriteOwner
+ObjectAceType           : None
+AceFlags                : ContainerInherit, Inherited
+AceType                 : AccessAllowed
+InheritanceFlags        : ContainerInherit
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1109
+IdentityReferenceName   : DnsAdmins
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=DnsAdmins,CN=Users,DC=AOC,DC=local
+IdentityReferenceClass  : group
+
+ObjectDN                : DC=h.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : CreateChild, DeleteChild, ListChildren, ReadProperty, DeleteTree, ExtendedRight, Delete, GenericWrite, WriteDacl, WriteOwner
+ObjectAceType           : None
+AceFlags                : ContainerInherit, Inherited
+AceType                 : AccessAllowed
+InheritanceFlags        : ContainerInherit
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1109
+IdentityReferenceName   : DnsAdmins
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=DnsAdmins,CN=Users,DC=AOC,DC=local
+IdentityReferenceClass  : group
+
+ObjectDN                : DC=i.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : CreateChild, DeleteChild, ListChildren, ReadProperty, DeleteTree, ExtendedRight, Delete, GenericWrite, WriteDacl, WriteOwner
+ObjectAceType           : None
+AceFlags                : ContainerInherit, Inherited
+AceType                 : AccessAllowed
+InheritanceFlags        : ContainerInherit
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1109
+IdentityReferenceName   : DnsAdmins
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=DnsAdmins,CN=Users,DC=AOC,DC=local
+IdentityReferenceClass  : group
+
+ObjectDN                : DC=j.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : CreateChild, DeleteChild, ListChildren, ReadProperty, DeleteTree, ExtendedRight, Delete, GenericWrite, WriteDacl, WriteOwner
+ObjectAceType           : None
+AceFlags                : ContainerInherit, Inherited
+AceType                 : AccessAllowed
+InheritanceFlags        : ContainerInherit
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1109
+IdentityReferenceName   : DnsAdmins
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=DnsAdmins,CN=Users,DC=AOC,DC=local
+IdentityReferenceClass  : group
+
+ObjectDN                : DC=k.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : CreateChild, DeleteChild, ListChildren, ReadProperty, DeleteTree, ExtendedRight, Delete, GenericWrite, WriteDacl, WriteOwner
+ObjectAceType           : None
+AceFlags                : ContainerInherit, Inherited
+AceType                 : AccessAllowed
+InheritanceFlags        : ContainerInherit
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1109
+IdentityReferenceName   : DnsAdmins
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=DnsAdmins,CN=Users,DC=AOC,DC=local
+IdentityReferenceClass  : group
+
+ObjectDN                : DC=l.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : CreateChild, DeleteChild, ListChildren, ReadProperty, DeleteTree, ExtendedRight, Delete, GenericWrite, WriteDacl, WriteOwner
+ObjectAceType           : None
+AceFlags                : ContainerInherit, Inherited
+AceType                 : AccessAllowed
+InheritanceFlags        : ContainerInherit
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1109
+IdentityReferenceName   : DnsAdmins
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=DnsAdmins,CN=Users,DC=AOC,DC=local
+IdentityReferenceClass  : group
+
+ObjectDN                : DC=m.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : CreateChild, DeleteChild, ListChildren, ReadProperty, DeleteTree, ExtendedRight, Delete, GenericWrite, WriteDacl, WriteOwner
+ObjectAceType           : None
+AceFlags                : ContainerInherit, Inherited
+AceType                 : AccessAllowed
+InheritanceFlags        : ContainerInherit
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1109
+IdentityReferenceName   : DnsAdmins
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=DnsAdmins,CN=Users,DC=AOC,DC=local
+IdentityReferenceClass  : group
+
+ObjectDN                : DC=a.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : CreateChild, DeleteChild, ListChildren, ReadProperty, DeleteTree, ExtendedRight, Delete, GenericWrite, WriteDacl, WriteOwner
+ObjectAceType           : None
+AceFlags                : ContainerInherit, Inherited
+AceType                 : AccessAllowed
+InheritanceFlags        : ContainerInherit
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1109
+IdentityReferenceName   : DnsAdmins
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=DnsAdmins,CN=Users,DC=AOC,DC=local
+IdentityReferenceClass  : group
+
+ObjectDN                : DC=b.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : CreateChild, DeleteChild, ListChildren, ReadProperty, DeleteTree, ExtendedRight, Delete, GenericWrite, WriteDacl, WriteOwner
+ObjectAceType           : None
+AceFlags                : ContainerInherit, Inherited
+AceType                 : AccessAllowed
+InheritanceFlags        : ContainerInherit
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1109
+IdentityReferenceName   : DnsAdmins
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=DnsAdmins,CN=Users,DC=AOC,DC=local
+IdentityReferenceClass  : group
+
+ObjectDN                : DC=c.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : CreateChild, DeleteChild, ListChildren, ReadProperty, DeleteTree, ExtendedRight, Delete, GenericWrite, WriteDacl, WriteOwner
+ObjectAceType           : None
+AceFlags                : ContainerInherit, Inherited
+AceType                 : AccessAllowed
+InheritanceFlags        : ContainerInherit
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1109
+IdentityReferenceName   : DnsAdmins
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=DnsAdmins,CN=Users,DC=AOC,DC=local
+IdentityReferenceClass  : group
+
+ObjectDN                : DC=d.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : CreateChild, DeleteChild, ListChildren, ReadProperty, DeleteTree, ExtendedRight, Delete, GenericWrite, WriteDacl, WriteOwner
+ObjectAceType           : None
+AceFlags                : ContainerInherit, Inherited
+AceType                 : AccessAllowed
+InheritanceFlags        : ContainerInherit
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1109
+IdentityReferenceName   : DnsAdmins
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=DnsAdmins,CN=Users,DC=AOC,DC=local
+IdentityReferenceClass  : group
+
+ObjectDN                : DC=e.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : CreateChild, DeleteChild, ListChildren, ReadProperty, DeleteTree, ExtendedRight, Delete, GenericWrite, WriteDacl, WriteOwner
+ObjectAceType           : None
+AceFlags                : ContainerInherit, Inherited
+AceType                 : AccessAllowed
+InheritanceFlags        : ContainerInherit
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1109
+IdentityReferenceName   : DnsAdmins
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=DnsAdmins,CN=Users,DC=AOC,DC=local
+IdentityReferenceClass  : group
+
+ObjectDN                : DC=f.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : CreateChild, DeleteChild, ListChildren, ReadProperty, DeleteTree, ExtendedRight, Delete, GenericWrite, WriteDacl, WriteOwner
+ObjectAceType           : None
+AceFlags                : ContainerInherit, Inherited
+AceType                 : AccessAllowed
+InheritanceFlags        : ContainerInherit
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1109
+IdentityReferenceName   : DnsAdmins
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=DnsAdmins,CN=Users,DC=AOC,DC=local
+IdentityReferenceClass  : group
+
+ObjectDN                : DC=g.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : CreateChild, DeleteChild, ListChildren, ReadProperty, DeleteTree, ExtendedRight, Delete, GenericWrite, WriteDacl, WriteOwner
+ObjectAceType           : None
+AceFlags                : ContainerInherit, Inherited
+AceType                 : AccessAllowed
+InheritanceFlags        : ContainerInherit
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1109
+IdentityReferenceName   : DnsAdmins
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=DnsAdmins,CN=Users,DC=AOC,DC=local
+IdentityReferenceClass  : group
+
+ObjectDN                : CN=DFSR-LocalSettings,CN=SOUTHPOLE,OU=Domain Controllers,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : GenericAll
+ObjectAceType           : All
+AceFlags                : None
+AceType                 : AccessAllowedObject
+InheritanceFlags        : None
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1008
+IdentityReferenceName   : SOUTHPOLE$
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=SOUTHPOLE,OU=Domain Controllers,DC=AOC,DC=local
+IdentityReferenceClass  : computer
+
+ObjectDN                : CN=Domain System Volume,CN=DFSR-LocalSettings,CN=SOUTHPOLE,OU=Domain Controllers,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : GenericAll
+ObjectAceType           : All
+AceFlags                : Inherited
+AceType                 : AccessAllowedObject
+InheritanceFlags        : None
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1008
+IdentityReferenceName   : SOUTHPOLE$
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=SOUTHPOLE,OU=Domain Controllers,DC=AOC,DC=local
+IdentityReferenceClass  : computer
+
+ObjectDN                : CN=SYSVOL Subscription,CN=Domain System Volume,CN=DFSR-LocalSettings,CN=SOUTHPOLE,OU=Domain Controllers,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : GenericAll
+ObjectAceType           : All
+AceFlags                : Inherited
+AceType                 : AccessAllowedObject
+InheritanceFlags        : None
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1008
+IdentityReferenceName   : SOUTHPOLE$
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=SOUTHPOLE,OU=Domain Controllers,DC=AOC,DC=local
+IdentityReferenceClass  : computer
+
+ObjectDN                : CN=vansprinkles,CN=Users,DC=AOC,DC=local
+AceQualifier            : AccessAllowed
+ActiveDirectoryRights   : ListChildren, ReadProperty, GenericWrite
+ObjectAceType           : None
+AceFlags                : None
+AceType                 : AccessAllowed
+InheritanceFlags        : None
+SecurityIdentifier      : S-1-5-21-1966530601-3185510712-10604624-1115
+IdentityReferenceName   : hr
+IdentityReferenceDomain : AOC.local
+IdentityReferenceDN     : CN=hr,CN=Users,DC=AOC,DC=local
+IdentityReferenceClass  : user
